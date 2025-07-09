@@ -1,0 +1,488 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.img {
+    width: 15vw;
+}
+
+.head1 {
+    font-size: 6vw;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.image {
+    width: 70%;
+}
+
+.image3 {
+    width: 50%;
+}
+
+.image2 {
+    width: 20%;
+}
+
+.image4 {
+    width: 100%;
+}
+
+.image5 {
+    width: 30vw;
+}
+
+.image6 {
+    width: 80%;
+}
+
+.image7 {
+    width: 60%;
+}
+
+.card {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.coding {
+    font-size: 15px;
+}
+
+.back {
+    font-size: 25px;
+}
+
+.joke {
+    font-size: 40px;
+}
+
+.color {
+    color: black;
+}
+
+.list {
+    list-style-type: num;
+    background-color: lightgrey;
+    padding: 40px;
+    border-radius: 20px;
+
+}
+
+.thick {
+    font-weight: bold;
+}
+
+.heading {
+    font-family: "poppins";
+}
+
+.subheading {
+    font-family: "lato";
+}
+
+.para {
+    font-family: "inter";
+}
+
+.back1 {
+    background-color: transparent;
+    padding: 5px;
+}
+
+/* .back2{
+    background-color:white;
+    padding:3px;
+    width:100vw;
+    padding-left:10px;
+} */
+.checked {
+    text-decoration: line-through;
+
+}
+
+.save {
+    height: 35px;
+    margin-right: 5px;
+}
+
+.back2 {
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.add {
+    background-color: lightgrey;
+    padding: 5px;
+}
+
+.input {
+    padding-left: 5px;
+}
+
+.back3 {
+    background-image: url("https://cdn.dribbble.com/userupload/25706853/file/original-00458846617b9542c72ebf93ca43f4f4.gif");
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.back4 {
+    background-color: white;
+    background-size: cover;
+    height: 100vh;
+}
+
+.head2 {
+    font-size: 20vw;
+    font-weight: bold;
+
+}
+
+.head3 {
+    font-size: 5vw;
+    font-weight: bold;
+}
+
+.back5 {
+    background-image: url("https://img.freepik.com/free-vector/abstract-soft-colorful-watercolor-texture-background-design_1055-13464.jpg?semt=ais_hybrid&w=740");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+.back6 {
+    background-image: url("https://i.makeagif.com/media/10-25-2016/9NRAeU.gif");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+.back7 {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/7/76/HD-hotspot-bg.png");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+.back8 {
+    background-image: url("https://www.shutterstock.com/image-photo/abstract-background-polygons-on-white-600nw-463916900.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+.back9 {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/002/490/545/small/abstract-yellow-gradient-diagonal-background-free-vector.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+.back10 {
+    background-image: url("https://i.pinimg.com/736x/8d/d9/b6/8dd9b6e70ab1a43414c7450b6fc0f044.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+.back11 {
+    background-image: url("https://img.freepik.com/free-vector/detailed-hand-painted-pink-watercolour-background_1048-17039.jpg?semt=ais_hybrid&w=740");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+.back12 {
+    background-image: url("https://img.freepik.com/free-vector/3d-perspective-style-diamond-shape-white-background_1017-27556.jpg?semt=ais_items_boosted&w=740");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+.back14 {
+    background-image: url("https://img.freepik.com/free-vector/gradient-yellow-star-background_52683-153241.jpg?semt=ais_hybrid&w=740");
+    background-size: cover;
+    min-height: 100vh;
+    height: 100vh;
+
+
+}
+
+.back15 {
+    background-image: url("https://t3.ftcdn.net/jpg/02/15/11/18/360_F_215111823_Lnv1TnzN4tCgZinv34OXXtl4f3eGDZXO.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back16 {
+    background-image: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?semt=ais_hybrid&w=740");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back17 {
+    background-image: url("https://img.freepik.com/free-vector/winter-blue-pink-gradient-background-vector_53876-117276.jpg?semt=ais_items_boosted&w=740");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back18 {
+    background-image: url("https://wallpapers.com/images/hd/white-color-background-w5cnsm83mhhhex71.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back19 {
+    background-image: url("https://maxsellerp.com/wp-content/uploads/2015/05/bg.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back21 {
+    background-image: url("https://bunny-wp-pullzone-zblfw4ltpz.b-cdn.net/wp-content/uploads/2014/07/bg-prlx-big-11.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back22 {
+    background-image: url("https://t3.ftcdn.net/jpg/06/27/85/70/360_F_627857047_VDETCsSfRkZuo5Fzdy3eHL1ZGdhsqYv9.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back23 {
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20211009/pngtree-bg-abstrack-pink-color-image_910529.png");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back24 {
+    background-image: url("https://t4.ftcdn.net/jpg/05/38/62/77/360_F_538627760_ah9BPKQ0K4d9PnJ6O5UrsPATy1IaY3ne.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.task-box {
+  min-height:10px; 
+  padding: 5px;   
+  align-items: center;
+}
+
+.back25 {
+    background-image: url("https://media.istockphoto.com/id/916274890/photo/white-dripping-paint-on-white-surface.jpg?s=612x612&w=0&k=20&c=F4hyRFBZIDFJw7H7mRMYhMxWHKJ1traJTOZ3qcxLMt8=");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back26 {
+    background-image: url("https://www.nitco.in/nitcomedia/tiles/swatch/main/WTL032HLL10505.jpg?v=06102023");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back27 {
+    background-image: url("https://t3.ftcdn.net/jpg/04/47/19/30/360_F_447193040_0MTKO703A5olX1bC1lON7F4kHiPKEtte.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back28{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20230130/pngtree-elegant-white-background-with-rectangle-gradient-vector-image_1540539.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back29{
+    background-image: url("https://www.shutterstock.com/image-photo/abstract-background-polygons-on-white-600nw-463916900.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back30{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200530/pngtree-cute-hand-drawn-style-math-education-plaid-background-image_337365.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back31{
+    background-image: url("https://static.storyweaver.org.in/illustrations/58816/large/3.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.logoSize{
+    height:80px;
+    width:80px;
+}
+.back32{
+    background-image: url("https://img.freepik.com/free-vector/white-film-strip-background-with-text-space_1017-26105.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back33{
+    background-image: url("https://img.freepik.com/free-vector/aged-paper-texture-background-design_60389-81.jpg?semt=ais_hybrid&w=740");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back34{
+    background-image: url("https://media.istockphoto.com/id/1417574214/vector/outline-of-a-large-stadium-from-black-lines-isolated-on-a-white-background-perspective-view.jpg?s=612x612&w=0&k=20&c=4_ny5qC44_35xYD43-kcrm_sDLaL-P7XIjIFQ26QTi0=");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+.button2 {
+    width: 80px;
+}
+.back20 {
+    background-image: url("https://media.istockphoto.com/id/1302412827/photo/abstract-background-blue-color-with-light-effect.jpg?s=170667a&w=0&k=20&c=tMD_ZjVdFuzxwydzB9iQRD55sNkRyHQXLnAv39-vHwM=");
+    background-size: cover;
+    width:100vw;
+}
+
+.button3 {
+    width: 100px;
+}
+
+.button4 {
+    width: 150px;
+}
+
+.button5 {
+    width: 200px;
+}
+.point{
+    cursor: pointer;
+}
+
+.textArea {
+    width: 80%;
+}
+
+.para2 {
+    font-family: "Inter";
+    font-weight: bold;
+
+}
+
+.optionsButton {
+    background-color: white;
+    width: 300px;
+    /* height: 35px; */
+    padding:5px;
+    border-radius: 8px;
+    border-width: 0px;
+}
+
+.back13 {
+    background-color: lightgrey;
+    border-width: 0px;
+}
+
+.color1 {
+    color: green;
+    text-decoration: underline;
+}
+
+.color2 {
+    color: red;
+    text-decoration: underline;
+}
+
+.color3 {
+    color: orange;
+    text-decoration: underline;
+}
+
+.result1 {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #FFD700;
+    font-family: "Bebas Neue";
+}
+
+.result2 {
+    font-family: "Bungee";
+    color: #FF4081
+}
+
+.result3 {
+    font-family: "Bebas Neue";
+    color: #9210e8;
+}
+
+.result5 {
+    font-family: "Bebas Neue";
+    color: #9210e8;
+    font-weight: bold;
+}
+
+.result4 {
+    font-family: "inter";
+    color: black;
+}
+
+.card4 {
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    border-style: solid;
+    border-color: lightgrey;
+    border-width: 5px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    margin-bottom: 10px;
+}
+
+.incorrect-answer {
+    font-family: "inter";
+    color: #E53935;
+    padding: 10px;
+    margin: 10px auto;
+    width: fit-content;
+    border-radius: 8px;
+    font-weight: 600;
+
+}
+
+.show3 {
+    border-right: 1px solid #ccc;
+    /*   height: 100vh; */
+    overflow: auto;
+}
+
+.show4 {
+    height: 100vh;
+    overflow-y: auto;
+    padding-right: 15px;
+}
+
+.tick1 {
+    color: red;
+}
+
+.tick2 {
+    color: green;
+}
+.user {
+    font-size: 25px;
+    color: black;
+
+}
+
+
+
+.follow {
+    font-family: "poppins";
+}
+
+.user2 {
+    font-size: 20px;
+
+}
+.joke5{
+    font-family:inter;
+}
