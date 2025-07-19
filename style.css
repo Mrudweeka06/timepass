@@ -25,6 +25,27 @@
 .image4 {
     width: 100%;
 }
+.body {
+  background-color: #F9FAFB; /* light gray */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.logo-container {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600; /* Semi-Bold */
+  font-size: 64px;
+  letter-spacing: 2px;
+  color: #1E3A8A; /* Deep Blue for SKILL */
+}
+
+.accent {
+  color: #F97316; /* Orange for HUB */
+  margin-left: 8px;
+  border-bottom: 4px solid #F97316; /* Optional underline for accent */
+}
 
 .image5 {
     width: 30vw;
@@ -33,13 +54,84 @@
 .image6 {
     width: 80%;
 }
+.body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #F9FAFB;
+}
 
+.navbar {
+  /* background-color:white; Deep blue navbar */
+  padding: 10px;
+}
+
+.navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap:10px;
+}
+
+.navbar li {
+  display: inline;
+}
+
+.navbar a {
+  color: #FFFFFF; /* Default white text */
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 16px;
+  /* padding: 4px 6px; */
+  transition: background-color 0.3s, color 0.3s, border-radius 0.3s;
+  border-radius: 3px;
+}
+
+.navbar a:hover {
+  background-color:lightgrey; /* Orange highlight on hover */
+  color: #FFFFFF; /* Text stays white */
+}
+
+.imageskill{
+    width:20%;
+}
 .image7 {
     width: 60%;
 }
 
 .card {
-    background-color: white;
+    /* background-color:transparent; */
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw3MQsFz-g6vLKetkEPUK0Im7JmLm8Q4yN4w&s");
+    padding: 10px;
+    margin: 10px;
+}
+.card12{
+    /* background-color:transparent; */
+    background-image:url("https://i.pinimg.com/736x/c7/96/1c/c7961c59649ce28be747d5ef491daba5.jpg");
+    padding: 10px;
+    margin: 10px;
+}
+.card13{
+    /* background-color:transparent; */
+    background-image:url("https://i.pinimg.com/736x/fe/10/02/fe100276805d4f2c149921769c5dc404.jpg");
+    padding: 10px;
+    margin: 10px;
+}
+.tophead1{
+    margin-top:70px;
+}
+.tophead2{
+    margin-top:50px;
+}
+.card14{
+    /* background-color:transparent; */
+    background-image:url("https://i.pinimg.com/474x/17/de/ee/17deee83a5e553bf763dca81086ec40f.jpg");
+    padding: 10px;
+    margin: 10px;
+}
+.card15{
+    /* background-color:transparent; */
+    background-image:url("https://papers.co/wallpaper/papers.co-vb24-wallpaper-bang-goo-light-pattern-34-iphone6-plus-wallpaper.jpg");
     padding: 10px;
     margin: 10px;
 }
@@ -121,7 +213,7 @@
 }
 
 .back3 {
-    background-image: url("https://cdn.dribbble.com/userupload/25706853/file/original-00458846617b9542c72ebf93ca43f4f4.gif");
+    background-image: url("https://media.istockphoto.com/id/1021625100/vector/clock-timer-icon-seamless-pattern-background-business-concept-vector-illustration-time-alarm.jpg?s=612x612&w=0&k=20&c=A0EWpeSqSLPk8J80aNQD6DbspwvIUqS3mTXeRsC0CVA=");
     background-size: cover;
     min-height: 100vh;
 }
@@ -152,6 +244,12 @@
 
 .back6 {
     background-image: url("https://i.makeagif.com/media/10-25-2016/9NRAeU.gif");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back143{
+    background-image: url("https://img.freepik.com/free-photo/abstract-solid-shining-yellow-gradient-studio-wall-room-background_1258-63768.jpg?semt=ais_hybrid&w=740");
     background-size: cover;
     min-height: 100vh;
 
@@ -326,8 +424,53 @@
     min-height: 100vh;
 
 }
+.toplogo{
+    height:35px;
+}
 .back34{
     background-image: url("https://media.istockphoto.com/id/1417574214/vector/outline-of-a-large-stadium-from-black-lines-isolated-on-a-white-background-perspective-view.jpg?s=612x612&w=0&k=20&c=4_ny5qC44_35xYD43-kcrm_sDLaL-P7XIjIFQ26QTi0=");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back35{
+    background-image: url("https://reallygooddesigns.com/wp-content/uploads/2023/09/Spring-Cartoon-Background.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back36{
+    background-image: url("https://www.shutterstock.com/image-photo/abstract-background-polygons-on-white-600nw-463916900.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back37{
+    background-image: url("https://images.unsplash.com/photo-1465101162946-4377e57745c3?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dW5pdmVyc2V8ZW58MHx8MHx8fDA%3D");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back38{
+    background-image: url("https://www.shutterstock.com/image-illustration/horizontal-banner-models-abstract-molecular-600nw-2089689517.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back39{
+    background-image: url("https://img.freepik.com/free-vector/hand-drawn-colorful-science-education-background_23-2148489182.jpg?semt=ais_hybrid&w=740");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back40{
+    background-image: url("https://png.pngtree.com/background/20250102/original/pngtree-sophisticated-white-texture-for-a-stunning-background-design-picture-image_15289420.jpg");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.back41{
+    background-image: url("https://media.istockphoto.com/id/1297933144/vector/vector-illustration-of-indian-tricolor-flag-background.jpg?s=612x612&w=0&k=20&c=tCd-ZdLMNHw_KAMZTX9zStqEDdWzXlS6FYrvjrZIswk=");
     background-size: cover;
     min-height: 100vh;
 
@@ -337,11 +480,13 @@
     width: 80px;
 }
 .back20 {
-    background-image: url("https://media.istockphoto.com/id/1302412827/photo/abstract-background-blue-color-with-light-effect.jpg?s=170667a&w=0&k=20&c=tMD_ZjVdFuzxwydzB9iQRD55sNkRyHQXLnAv39-vHwM=");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvileRpRXXzboAHxb-E-50KCaPHzihANMsgA&s");
     background-size: cover;
     width:100vw;
 }
-
+.white{
+    color:white;
+}
 .button3 {
     width: 100px;
 }
@@ -455,7 +600,7 @@
 }
 
 .show4 {
-    height: 100vh;
+    height: 90vh;
     overflow-y: auto;
     padding-right: 15px;
 }
